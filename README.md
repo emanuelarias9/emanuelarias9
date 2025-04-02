@@ -13,9 +13,9 @@ I'm Emanuel, Fullstack developer from Barranquilla, Colombia
 ###   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelarias9&layout=compact)
 
----
 
-Technologies & Tools 🛠
+
+### Technologies & Tools 🛠
 
 ---
 
