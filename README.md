@@ -5,11 +5,11 @@
 I'm Emanuel, Fullstack developer from Barranquilla, Colombia
 - 🔭 I’m currently working on a mobile app with .NET MAUI, C#, REST API, SQL server 
 - 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- 
+  
 <br/>
 
 ###   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelarias9&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelarias9&layout=compact)
 
 Technologies & Tools 🛠
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
