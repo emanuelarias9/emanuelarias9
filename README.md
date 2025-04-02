@@ -1,8 +1,7 @@
 
-## Hello World <img width="60" src="https://media.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" />
 ![Header](./github-header-image.png)
 
-I'm Emanuel, Fullstack developer from Barranquilla, Colombia
+I'm Emanuel Arias, Fullstack developer from Barranquilla, Colombia <img width="60" src="https://media.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" />
 - 🔭 I’m currently working on a mobile app with .NET MAUI, C#, REST API, SQL server 
 - 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
