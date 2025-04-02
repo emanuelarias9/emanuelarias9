@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img width="60" src="https://media.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" />
 
 <!--
 **emanuelarias9/emanuelarias9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
