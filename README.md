@@ -4,20 +4,21 @@
 I'm Emanuel Arias, Fullstack developer from Barranquilla, Colombia <img width="60" src="https://media.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" />
 - 🔭 I’m currently working on a mobile app with .NET MAUI, C#, REST API, SQL server 
 - 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
----
+- 📫 How to reach me: emanuelarias9@gmail.com
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ###   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelarias9&layout=compact)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <p align=""><img src="https://github-readme-stats.vercel.app/api?username=emanuelarias9&show_icons=true&theme=synthwave" alt="emanuelarias9 :: Profile Stats" /></p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ### Technologies & Tools 🛠
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -53,7 +54,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
