@@ -13,8 +13,6 @@ I'm Emanuel Arias, Fullstack developer from Barranquilla, Colombia <img width="6
 
 <p align=""><img src="https://github-readme-stats.vercel.app/api?username=emanuelarias9&show_icons=true&theme=synthwave" alt="emanuelarias9 :: Profile Stats" /></p>
 
-<br/>
-
 ---
 
 ### Technologies & Tools 🛠
