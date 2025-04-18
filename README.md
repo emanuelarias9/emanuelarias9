@@ -4,19 +4,21 @@
 I'm Emanuel Arias, Fullstack developer from Barranquilla, Colombia <img width="60" src="https://media.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" />
 - 🔭 I’m currently working on a mobile app with .NET MAUI, C#, REST API, SQL server 
 - 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- 📫 How to reach me: emanuelarias9@gmail.com
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emanuel-aj/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emanuelarias9@gmail.com)
+
+
+# 📊 GitHub Stats:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelarias9&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=emanuelarias9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=emanuelarias9&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
-###   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelarias9&layout=compact)
-
+## 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<p align=""><img src="https://github-readme-stats.vercel.app/api?username=emanuelarias9&show_icons=true&theme=synthwave" alt="emanuelarias9 :: Profile Stats" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+![](https://github-profile-trophy.vercel.app/?username=emanuelarias9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### Technologies & Tools 🛠
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <br>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -43,7 +45,7 @@ I'm Emanuel Arias, Fullstack developer from Barranquilla, Colombia <img width="6
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 <!--
 **emanuelarias9/emanuelarias9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
