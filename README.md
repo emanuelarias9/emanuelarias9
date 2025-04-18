@@ -7,14 +7,14 @@ I'm Emanuel Arias, Fullstack developer from Barranquilla, Colombia <img width="6
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emanuel-aj/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emanuelarias9@gmail.com)
 
 
-###📊 GitHub Stats:
+### 📊 GitHub Stats:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelarias9&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=emanuelarias9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=emanuelarias9&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
-###🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ![](https://github-profile-trophy.vercel.app/?username=emanuelarias9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
