@@ -12,7 +12,7 @@ I'm Emanuel Arias, Fullstack developer from Barranquilla, Colombia <img width="6
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelarias9&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=emanuelarias9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=emanuelarias9&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+<!--![](https://github-readme-stats.vercel.app/api?username=emanuelarias9&theme=dark&hide_border=false&include_all_commits=false&count_private=true)-->
 
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
