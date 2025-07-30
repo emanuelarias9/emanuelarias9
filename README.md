@@ -13,12 +13,6 @@ I'm Emanuel Arias, Fullstack developer from Barranquilla, Colombia <img width="6
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelarias9&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=emanuelarias9&theme=dark&hide_border=false)<br/>
 
-
-### 🏆 GitHub Trophies
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-![](https://github-profile-trophy.vercel.app/?username=emanuelarias9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### Technologies & Tools 🛠
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -52,6 +46,11 @@ I'm Emanuel Arias, Fullstack developer from Barranquilla, Colombia <img width="6
 
 <!--
 **emanuelarias9/emanuelarias9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+![](https://github-profile-trophy.vercel.app/?username=emanuelarias9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=emanuelarias9&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
